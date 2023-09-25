@@ -1,9 +1,9 @@
 const cacheName = "qej llc-Apple Picker-0.1";
 const contentToCache = [
     "Build/Out.loader.js",
-    "Build/Out.framework.js.gz",
-    "Build/Out.data.gz",
-    "Build/Out.wasm.gz",
+    "Build/Out.framework.js.unityweb",
+    "Build/Out.data.unityweb",
+    "Build/Out.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
