@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Mission Demolition-0.1";
+const cacheName = "DefaultCompany-Space Shooter-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/Out.loader.js",
+    "Build/Out.framework.js",
+    "Build/Out.data",
+    "Build/Out.wasm",
     "TemplateData/style.css"
 
 ];
